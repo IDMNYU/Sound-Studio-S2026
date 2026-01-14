@@ -1,12 +1,12 @@
 title: Creative Coding 2025
 description: A GitHub Pages site generated from Markdown
 baseurl: ""   # leave empty for user/organization site
-url: "https://craigfahner.github.io/CC2025"
+url: "https://idmnyu.github.io/Sound-Studio-S2026"
 
 markdown: kramdown
 theme: minima   
-url: "https://craigfahner.github.io"
-baseurl: "/CC2025"
+url: "https://idmnyu.github.io/"
+baseurl: "/Sound-Studio-S2026"
 
 header_pages:
   - _pages/assignments.md

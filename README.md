@@ -4,8 +4,6 @@ title: Sound Studio
 permalink: /
 ---
 
-# DM-GY 6113 A | Sound Studio | Spring 2026
-
 - Instructors: [Craig Fahner](https://www.craigfahner.com) and [R. Luke Dubois](https://www.lukedubois.com/)
 - email: [cef9489@nyu.edu](mailto:cef9489@nyu.edu) && [dubois@nyu.edu](mailto:dubois@nyu.edu)
 - Website: [https://idmnyu.github.io/Sound-Studio-S2026/](https://idmnyu.github.io/Sound-Studio-S2026/)
@@ -25,7 +23,7 @@ permalink: /
 ## Weekly notes
 
 - [Week 1: Introduction and Software Setup](./week1/)
-- **[Assignment 1: Steal a sound (due September 24th)](./assignment1/**)
+- **[Assignment 1: Steal a sound (due September 24th)](./assignment1/)**
 
 
 ## Important resources

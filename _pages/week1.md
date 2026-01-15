@@ -10,6 +10,7 @@ permalink: /week1/
 - Presenting the [syllabus](../syllabus/)
 - Installing Max
 - Max examples: Notes and signals
+- [Steal a Sound Assignment](../assignment1/)
 
 
 

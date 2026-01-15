@@ -39,8 +39,6 @@ Specifically, we will be looking at using Max as a DSP environment for the Elect
 
 [https://www.electro-smith.com/daisy](https://www.electro-smith.com/daisy)
 
-In addition, we’ll be looking at other creative coding environments for sound, including the audio frameworks for web Javascript.
-
 **Texts / Resources**
 
 Code that we create in class (as well as this syllabus) will be published on the class GitHub:
@@ -89,14 +87,14 @@ Grades will be distributed on Brightspace.
 | Week 6<br>February 24 | **_Control and actuation:_**<br>• MIDI<br>• CV<br>• Keyboards<br>• Alternative controllers<br>• Midterm assignment check-in |
 | Week 7<br>March 3 | **_Circuits:_**<br>• Microcontrollers<br>• Midterm assignment studio time - building and testing control circuits |
 | Week 8<br>March 10 | **_Midterm assignment install time:_**<br>• Installing our collaborative instrument |
-| **March 17** | **_NO CLASS: SPRING BREAK:_**<br> |
+| **March 17** | **_NO CLASS: SPRING BREAK_**<br> |
 | Week 9<br>March 24 | **_Midterm crit and performance:_**<br> |
 | Week 10<br>March 31 | **_Spatial audio:_**<br>• Spatial audio workshop in 370J Audio Lab |
 | Week 11<br>April 7 | **_Daisy workshop:_**<br>• Put together a [Daisy](https://electro-smith.com/products/daisy-seed) prototype |
 | Week 12<br>April 14 | **_Synesthesia:_** <br>• Audio visualization workshop in Video Lab<br>• Final Project discussion |
 | Week 13<br>April 21 | **_Music Theory and Composition:_** <br>• Final project check-in|
 | Week 14<br>April 28  | **_Final project pre-presentation meetings_** |
-| Week 15<br>April 28  | **_Final project critiques** |
+| Week 15<br>April 28  | **_Final project critiques_** |
 
 ## Course Materials
 

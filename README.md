@@ -25,7 +25,7 @@ permalink: /
 ## Weekly notes
 
 - [Week 1: Introduction and Software Setup](./week1/)
-- **[Assignment 1: Steal a sound (due September 24th)](./assignment1/**
+- **[Assignment 1: Steal a sound (due September 24th)](./assignment1/**)
 
 
 ## Important resources

@@ -18,6 +18,8 @@ permalink: /week1/
 - Max examples: Notes and signals
 - [Steal a Sound Assignment](../assignment1/)
 
+![MUSIC IV]({{ "/assets/musiciv.png" | relative_url }})
+
 ### What is sound?
 
 - VIBRATIONS IN AIR OR ANOTHER MEDIUM THAT YOU CAN PERCEIVE
@@ -56,3 +58,18 @@ permalink: /week1/
 - [Magnet and wire](https://en.wikipedia.org/wiki/Pickup_(music_technology))
 
 ![pickup]({{ "/assets/pickup.png" | relative_url }})
+
+- Acoustic vs Electric vs Electronic
+- Analog vs Digital
+
+- Sampling rate (temporal quality)
+
+- Shannon-Nyquist theorem: to digitally encode a signal of frequency X, you need X*2 values at minimum
+
+- Bit Depth (accuracy of pressure measurement)
+
+- Fast Fourier Transform (deriving frequency-domain information from a signal)
+
+- Programming for sound and music
+
+- [MUSIC-IV](https://archive.org/details/music-iv-programmers-manual/mode/2up)

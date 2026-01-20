@@ -94,7 +94,7 @@ Grades will be distributed on Brightspace.
 | Week 12<br>April 14 | **_Synesthesia:_** <br>• Audio visualization workshop in Video Lab<br>• Final Project discussion |
 | Week 13<br>April 21 | **_Music Theory and Composition:_** <br>• Final project check-in|
 | Week 14<br>April 28  | **_Final project pre-presentation meetings_** |
-| Week 15<br>April 28  | **_Final project critiques_** |
+| Week 15<br>May 5  | **_Final project critiques_** |
 
 ## Course Materials
 

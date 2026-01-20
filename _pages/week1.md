@@ -26,4 +26,33 @@ permalink: /week1/
 
 ![Ear]({{ "/assets/ear.png" | relative_url }})
 
+- [The Cochlea (encyclopedia entry)](https://www.britannica.com/science/ear/Cochlea)
 
+- [Vibrissae (whiskers)](https://en.wikipedia.org/wiki/Whiskers)
+
+![SPL]({{ "/assets/spl.png" | relative_url }})
+
+- 20Hz to 20,000Hz is audible frequency range for humans (normatively speaking)
+
+![Frequency vs time]({{ "/assets/freqtime.png" | relative_url }})
+
+### What is music?
+
+- "organized sound"
+- emotional response
+- cultural / learned context
+- use of instrumentation
+
+- [The Human Voice](https://en.wikipedia.org/wiki/Human_voice)
+
+![voice]({{ "/assets/voice.png" | relative_url }})
+
+![vowels]({{ "/assets/vowels.png" | relative_url }})
+
+- [The Human hand](https://en.wikipedia.org/wiki/Hand)
+
+![hand]({{ "/assets/hand.png" | relative_url }})
+
+- [Magnet and wire](https://en.wikipedia.org/wiki/Pickup_(music_technology))
+
+![pickup]({{ "/assets/pickup.png" | relative_url }})

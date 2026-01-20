@@ -10,7 +10,7 @@ permalink: /
 - [Brightspace](https://brightspace.nyu.edu/d2l/home/540944) (for grade reporting etc.)
 - Class meeting: Tuesdays 2pm - 4:50pm 370 Jay Street, Room 307
 - **NOTE: meeting locations may change week-to-week, will be announced via this site**
-- Office Hours: Craig: Wednesdays 11-1pm, ([by appointment](https://calendar.app.google/3NMvzoXuEZXAqLwk6)), 370 Jay Street Room 332; Luke: Tuesdays 10am-12pm, 
+- Office Hours: Craig: Wednesdays 11-1pm, ([by appointment](https://calendar.app.google/3NMvzoXuEZXAqLwk6)), 370 Jay Street Room 332; Luke: Tuesdays 10am-12pm, ([by appointment](https://calendar.app.google/QsBm8psrMpAM6CwP8)), 2MTC Room 824
 
 ## Important Dates (for this course)
 

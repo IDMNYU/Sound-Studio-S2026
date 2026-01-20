@@ -16,6 +16,7 @@ permalink: /week1/
     4. Restart your computer. After the restart, in the KeyAccess client in settings/Control Panel you should be able to connect to our license server. 
     5. If you are trying to access the Max license via the Sassafras client off campus, you may run into an issue. This is because the Keyserver is only accessible when connected to NYU's network. If you wish to connect from home, please connect to the NYU VPN first. Instructions for doing so are [here](https://www.nyu.edu/life/information-technology/infrastructure/network-services/vpn.html)
 - Max examples: Notes and signals
+    - [Max examples from class on Github](https://github.com/IDMNYU/Sound-Studio-S2026/tree/main/class01)
 - [Steal a Sound Assignment](../assignment1/)
 
 ![MUSIC IV]({{ "/assets/musiciv.png" | relative_url }})

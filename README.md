@@ -24,6 +24,7 @@ permalink: /
 
 - [Week 1: Introduction and Software Setup](./week1/)
 - **[Assignment 1: Steal a sound (due September 24th)](./assignment1/)**
+- [Week 2: Recording Technologies](./week2/)
 
 
 ## Important resources

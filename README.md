@@ -23,11 +23,13 @@ permalink: /
 ## Weekly notes
 
 - [Week 1: Introduction and Software Setup](./week1/)
-- **[Assignment 1: Steal a sound (due September 24th)](./assignment1/)**
+- **[Assignment 1: Steal a sound (due  January 27)](./assignment1/)**
 - [Week 2: Recording Technologies](./week2/)
+- **[Assignment 2: The Idea of Jay St (due February 3)](./assignment2/)**
 
 
 ## Important resources
 
 - [Max Documentation](https://docs.cycling74.com/)
+- [GitHub repo (for Max patch examples etc)](https://github.com/IDMNYU/Sound-Studio-S2026)
 

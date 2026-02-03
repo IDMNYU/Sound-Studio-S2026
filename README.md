@@ -26,7 +26,7 @@ permalink: /
 - **[Assignment 1: Steal a sound (due  January 27)](./assignment1/)**
 - [Week 2: Recording Technologies](./week2/)
 - **[Assignment 2: The Idea of Jay St (due February 3)](./assignment2/)**
-- [Week 3: Recording Technologies](./week3/)
+- [Week 3: Synthesis](./week3/)
 - **[Assignment 3: Synthesize a Sound (due February 10)](./assignment2/)**
 
 

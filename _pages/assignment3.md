@@ -8,7 +8,6 @@ permalink: /assignment3/
 
 **Part 1**: Listen to some of these recordings, making note of how different aspects of synthesis are being used:
 
-   - [Elsa Barraine, Prélude and Fugue in G minor](https://www.youtube.com/watch?v=omoxaZUeSGU&ab_channel=OwenTellinghuisen-Organist)
    - [KOMITAS THE CRANE THEREMIN ARMEN RA](https://www.youtube.com/watch?v=nTXaSRJTGGw&ab_channel=ArmenRa)
    - [Cynthia Millar: Guide to the ondes Martenot](https://www.youtube.com/watch?v=yidV0HeVyCg&ab_channel=SeattleSymphony)
    - [Bill Doggett - Summertime (Live)](https://www.youtube.com/watch?v=psf0-aA_FSE&ab_channel=SchweinBauch)

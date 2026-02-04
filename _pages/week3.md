@@ -6,6 +6,8 @@ permalink: /week3/
 
 ## Week 3 Activities
 
+    - [Max examples from class on Github](https://download-directory.github.io?url=https://github.com/IDMNYU/Sound-Studio-S2026/tree/main/class01) (direct download – now this will download a Zip with only this week's files!)
+
 - [The IDM Audio Lab](https://idmnyu.github.io/audiolab/)
 
 - [History of Synthesis](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Sound%20Studio%20Seminar%20Class%202.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1st-3buY1blnCjf-cZ9MLz9cNPZqWSITo%26export%3Ddownload)

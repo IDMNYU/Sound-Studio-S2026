@@ -10,7 +10,7 @@ permalink: /
 - [Brightspace](https://brightspace.nyu.edu/d2l/home/540944) (for grade reporting etc.)
 - Class meeting: Tuesdays 2pm - 4:50pm 370 Jay Street, Room 307
 - **NOTE: meeting locations may change week-to-week, will be announced via this site**
-- Office Hours: Craig: Wednesdays 11-1pm, ([by appointment](https://calendar.app.google/3NMvzoXuEZXAqLwk6)), 370 Jay Street Room 332; Luke: Tuesdays 10am-12pm, ([by appointment](https://calendar.app.google/QsBm8psrMpAM6CwP8)), 2MTC Room 824
+- Office Hours: Craig: Wednesdays 11am-noon, Mondays noon-1pm, ([by appointment](https://calendar.app.google/3NMvzoXuEZXAqLwk6)), 370 Jay Street Room 332; Luke: Tuesdays 10am-12pm, ([by appointment](https://calendar.app.google/QsBm8psrMpAM6CwP8)), 2MTC Room 824
 
 ## Important Dates (for this course)
 
@@ -26,6 +26,8 @@ permalink: /
 - **[Assignment 1: Steal a sound (due  January 27)](./assignment1/)**
 - [Week 2: Recording Technologies](./week2/)
 - **[Assignment 2: The Idea of Jay St (due February 3)](./assignment2/)**
+- [Week 3: Synthesis](./week3/)
+- **[Assignment 3: Synthesize a Sound (due February 10)](./assignment2/)**
 
 
 ## Important resources

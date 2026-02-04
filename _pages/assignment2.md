@@ -21,4 +21,4 @@ Some things to consider when assembling your patch:
 - Do your sounds load automatically?
 - Does your composition have a start and end or does it loop forever?
 
-Upload all your audio and your Max patch into this Google Drive folder before class on **February 3rd**.
+Upload all your audio and your Max patch into [this Google Drive folder](https://drive.google.com/drive/folders/1Y3dKMntbb7IxVdU-qXxE8_v28S3cz__j?usp=drive_link) before class on **February 3rd**.

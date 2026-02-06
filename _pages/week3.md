@@ -7,6 +7,7 @@ permalink: /week3/
 ## Week 3 Activities
 
     - [Max examples from class on Github](https://download-directory.github.io?url=https://github.com/IDMNYU/Sound-Studio-S2026/tree/main/class01) (direct download – now this will download a Zip with only this week's files!)
+    - [ARP 2600 Walkthrough Video](https://drive.google.com/file/d/1zTUqV1izThN-eNQoBd7jXD5dlKeKWldB/view?usp=drive_link)
 
 - [The IDM Audio Lab](https://idmnyu.github.io/audiolab/)
 

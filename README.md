@@ -27,11 +27,14 @@ permalink: /
 - [Week 2: Recording Technologies](./week2/)
 - **[Assignment 2: The Idea of Jay St (due February 3)](./assignment2/)**
 - [Week 3: Synthesis](./week3/)
-- **[Assignment 3: Synthesize a Sound (due February 10)](./assignment2/)**
+- **[Assignment 3: Synthesize a Sound (due February 10)](./assignment3/)**
+- [Week 4: Signal Processing](./week4/)
+- **[Assignment 4: Make an effect! (due February 24)](./assignment4/)**
 
 
 ## Important resources
 
 - [Max Documentation](https://docs.cycling74.com/)
 - [GitHub repo (for Max patch examples etc)](https://github.com/IDMNYU/Sound-Studio-S2026)
+- [AudioLab discord server (with Sound Studio channel)](https://discord.com/channels/1289056366429863977/1468743208178548746)
 

@@ -18,7 +18,7 @@ Name your subpatcher using this convention:
 
 [p craig_modulated_delay], for instance.
 
-Upload your effect patch (demonstrating the use of your subpatcher) into [this Google Drive folder](https://drive.google.com/drive/folders/1hVxIJrMESRXxZL55HeSF9VN6kRi6Wf6W?usp=sharing) by 1pm  on **February 24th**.
+Upload your effect patch (demonstrating the use of your subpatcher) into [this Google Drive folder](https://drive.google.com/drive/folders/1yJQmE5V_TPUSBGmwoxX67EBkVp2XZ3TM?usp=drive_link) by 1pm  on **February 24th**.
 
 Example resources:
 

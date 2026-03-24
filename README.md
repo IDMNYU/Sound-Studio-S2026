@@ -30,8 +30,12 @@ permalink: /
 - **[Assignment 3: Synthesize a Sound (due February 10)](./assignment3/)**
 - [Week 4: Signal Processing](./week4/)
 - **[Assignment 4: Make an effect! (due February 24)](./assignment4/)**
-- [Week 5: Controllers](./week5/)
+- Week 5: No class (legislative day)
+- [Week 6: Controllers](./week5/)
 - **[MIDTERM ASSIGNMENT](./midterm/)**
+- Week 7: Midterm project production session 1
+- Week 8: Midterm project production session 2
+- Week 9: Building an ARP 2600 in Max!
 
 
 ## Important resources

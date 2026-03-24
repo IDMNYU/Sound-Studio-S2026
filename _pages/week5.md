@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Week 5
+title: Week 6
 permalink: /week5/
 ---
 
-## Week 5 Activities
+## Week 6 Activities
 
 - [Max examples from class on Github](https://download-directory.github.io?url=https://github.com/IDMNYU/Sound-Studio-S2026/tree/main/class05) 
 

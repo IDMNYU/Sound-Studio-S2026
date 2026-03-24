@@ -35,7 +35,7 @@ permalink: /
 - **[MIDTERM ASSIGNMENT](./midterm/)**
 - Week 7: Midterm project production session 1
 - Week 8: Midterm project production session 2
-- Week 9: Building an ARP 2600 in Max!
+- **[Week 9: Building an ARP 2600 in Max!]**(./week9/)
 
 
 ## Important resources

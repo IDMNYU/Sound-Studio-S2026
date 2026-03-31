@@ -10,15 +10,82 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2111.0, 856.0, 1000.0, 780.0 ],
+		"rect" : [ 633.0, 132.0, 1000.0, 780.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
+				"box" : 				{
+					"basictuning" : 440,
+					"data" : 					{
+						"clips" : [ 							{
+								"absolutepath" : "cello-f2.aif",
+								"filename" : "cello-f2.aif",
+								"filekind" : "audiofile",
+								"id" : "u196011283",
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+ ]
+					}
+,
+					"followglobaltempo" : 0,
+					"formantcorrection" : 0,
+					"id" : "obj-26",
+					"maxclass" : "playlist~",
+					"mode" : "basic",
+					"numinlets" : 1,
+					"numoutlets" : 5,
+					"originallength" : [ 0.0, "ticks" ],
+					"originaltempo" : 120.0,
+					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 318.452377915382385, 163.690474629402161, 150.0, 30.0 ],
+					"pitchcorrection" : 0,
+					"quality" : "basic",
+					"saved_attribute_attributes" : 					{
+						"candicane2" : 						{
+							"expression" : ""
+						}
+,
+						"candicane3" : 						{
+							"expression" : ""
+						}
+,
+						"candicane4" : 						{
+							"expression" : ""
+						}
+,
+						"candicane5" : 						{
+							"expression" : ""
+						}
+,
+						"candicane6" : 						{
+							"expression" : ""
+						}
+,
+						"candicane7" : 						{
+							"expression" : ""
+						}
+,
+						"candicane8" : 						{
+							"expression" : ""
+						}
+
+					}
+,
+					"timestretch" : [ 0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-17",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 164.0, 646.0, 64.0, 20.0 ],
+					"patching_rect" : [ 164.0, 457.0, 64.0, 20.0 ],
 					"text" : "rear left"
 				}
 
@@ -29,7 +96,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 708.0, 646.0, 64.0, 20.0 ],
+					"patching_rect" : [ 477.0, 457.0, 78.0, 20.0 ],
 					"text" : "rear right"
 				}
 
@@ -40,7 +107,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 708.0, 264.0, 64.0, 20.0 ],
+					"patching_rect" : [ 477.0, 264.0, 78.0, 20.0 ],
 					"text" : "front right"
 				}
 
@@ -75,7 +142,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 5,
 					"numoutlets" : 0,
-					"patching_rect" : [ 164.0, 622.0, 608.0, 22.0 ],
+					"patching_rect" : [ 164.0, 433.0, 391.0, 22.0 ],
 					"text" : "dac~ 7 49 23 45 8"
 				}
 
@@ -86,7 +153,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 4,
 					"numoutlets" : 0,
-					"patching_rect" : [ 164.0, 518.0, 608.0, 22.0 ],
+					"patching_rect" : [ 164.0, 386.0, 391.0, 22.0 ],
 					"text" : "dac~ 53 11 12 41"
 				}
 
@@ -97,7 +164,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 4,
 					"numoutlets" : 0,
-					"patching_rect" : [ 164.0, 424.0, 608.0, 22.0 ],
+					"patching_rect" : [ 164.0, 340.0, 391.0, 22.0 ],
 					"text" : "dac~ 5 17 18 6"
 				}
 
@@ -108,7 +175,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 4,
 					"numoutlets" : 0,
-					"patching_rect" : [ 164.0, 333.0, 608.0, 22.0 ],
+					"patching_rect" : [ 164.0, 297.0, 391.0, 22.0 ],
 					"text" : "dac~ 57 9 10 37"
 				}
 
@@ -119,7 +186,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 5,
 					"numoutlets" : 0,
-					"patching_rect" : [ 164.0, 240.0, 608.0, 22.0 ],
+					"patching_rect" : [ 164.0, 240.0, 391.0, 22.0 ],
 					"text" : "dac~ 1 29 3 33 2"
 				}
 
@@ -151,7 +218,13 @@
 			}
  ],
 		"originid" : "pat-584",
-		"dependency_cache" : [  ],
+		"dependency_cache" : [ 			{
+				"name" : "cello-f2.aif",
+				"bootpath" : "C74:/media/msp",
+				"type" : "AIFF",
+				"implicit" : 1
+			}
+ ],
 		"autosave" : 0
 	}
 

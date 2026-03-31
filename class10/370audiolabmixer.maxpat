@@ -10,9 +10,33 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1560.0, 271.0, 1444.0, 792.0 ],
+		"rect" : [ 552.0, 212.0, 1444.0, 792.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-16",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 140.25, 250.0, 31.0, 22.0 ],
+					"text" : "sig~"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "newobj",
+					"numinlets" : 3,
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 144.75, 282.0, 40.0, 22.0 ],
+					"text" : "slide~"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"format" : 6,
 					"id" : "obj-79",
@@ -808,11 +832,11 @@
 				"box" : 				{
 					"comment" : "DAC on / off",
 					"id" : "obj-8",
-					"index" : 3,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 454.0, 57.0, 30.0, 30.0 ]
 				}
 
@@ -823,7 +847,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 36.75, 293.0, 45.0, 22.0 ],
+					"patching_rect" : [ 48.0, 355.0, 45.0, 22.0 ],
 					"text" : "dac~ 1"
 				}
 
@@ -835,7 +859,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 36.75, 254.0, 117.5, 22.0 ],
+					"patching_rect" : [ 48.0, 316.0, 117.5, 22.0 ],
 					"text" : "*~"
 				}
 
@@ -855,7 +879,7 @@
 				"box" : 				{
 					"comment" : "List of amplitudes",
 					"id" : "obj-5",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -879,11 +903,11 @@
 				"box" : 				{
 					"comment" : "Audio In",
 					"id" : "obj-1",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "signal" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 66.0, 58.0, 30.0, 30.0 ]
 				}
 
@@ -929,7 +953,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-34", 0 ],
 					"midpoints" : [ 75.5, 240.0, 21.0, 240.0, 21.0, 399.0, 46.25, 399.0 ],
-					"order" : 17,
+					"order" : 18,
 					"source" : [ "obj-1", 0 ]
 				}
 
@@ -991,8 +1015,8 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-6", 0 ],
-					"midpoints" : [ 75.5, 240.0, 46.25, 240.0 ],
-					"order" : 18,
+					"midpoints" : [ 75.5, 240.0, 57.5, 240.0 ],
+					"order" : 17,
 					"source" : [ "obj-1", 0 ]
 				}
 
@@ -1089,7 +1113,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-6", 1 ],
+					"destination" : [ "obj-16", 0 ],
 					"source" : [ "obj-14", 0 ]
 				}
 
@@ -1098,6 +1122,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-18", 1 ],
 					"source" : [ "obj-15", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-2", 0 ],
+					"source" : [ "obj-16", 0 ]
 				}
 
 			}
@@ -1112,6 +1143,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-22", 1 ],
 					"source" : [ "obj-19", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-6", 1 ],
+					"source" : [ "obj-2", 0 ]
 				}
 
 			}
@@ -1518,7 +1556,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
-					"midpoints" : [ 463.5, 129.0, 75.0, 129.0, 75.0, 207.0, 21.0, 207.0, 21.0, 288.0, 46.25, 288.0 ],
+					"midpoints" : [ 463.5, 129.0, 75.0, 129.0, 75.0, 207.0, 21.0, 207.0, 21.0, 288.0, 57.5, 288.0 ],
 					"source" : [ "obj-8", 0 ]
 				}
 
@@ -1587,7 +1625,9 @@
 
 			}
  ],
-		"originid" : "pat-18"
+		"originid" : "pat-960",
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }

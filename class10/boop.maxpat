@@ -10,9 +10,33 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1072.0, 440.0, 1285.0, 1047.0 ],
+		"rect" : [ 258.0, 135.0, 1285.0, 851.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-9",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 217.0, 79.0, 150.0, 60.0 ],
+					"text" : "every instance will have a different note, because the loadbang will select one randomly"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-4",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 171.0, 314.0, 44.0, 22.0 ],
+					"text" : "r scala"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-44",
 					"maxclass" : "newobj",
@@ -91,7 +115,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 71.0, 203.0, 37.0, 22.0 ],
+					"patching_rect" : [ 71.0, 204.022985100746155, 37.0, 22.0 ],
 					"text" : "zl.nth"
 				}
 
@@ -103,7 +127,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 71.0, 152.0, 339.0, 22.0 ],
+					"patching_rect" : [ 71.0, 148.850572228431702, 339.0, 22.0 ],
 					"text" : "36 38 40 43 45 48 50 52 55 57 60 62 64 67 69 72 74 76 79 81"
 				}
 
@@ -563,6 +587,13 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-8", 0 ],
+					"source" : [ "obj-4", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-8", 0 ],
 					"source" : [ "obj-40", 0 ]
 				}
 
@@ -619,7 +650,7 @@
 
 			}
  ],
-		"originid" : "pat-647",
+		"originid" : "pat-820",
 		"dependency_cache" : [  ],
 		"autosave" : 0
 	}

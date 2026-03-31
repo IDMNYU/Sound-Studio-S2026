@@ -18,7 +18,8 @@ permalink: /
 - February 2: Add/Drop Deadline
 - February 17: Legislative Monday (no class)
 - March 17: Spring break (no class)
-- May 5: Last day of classes
+- April 14: Final project proposal due
+- May 5: Last day of classes, final project critiques
 
 ## Weekly notes
 
@@ -35,8 +36,9 @@ permalink: /
 - **[MIDTERM ASSIGNMENT](./midterm/)**
 - Week 7: Midterm project production session 1
 - Week 8: Midterm project production session 2
-- **[Week 9: Building an ARP 2600 in Max!]**(./week9/)
-
+- **[Week 9: Building an ARP 2600 in Max!](./week9/)**
+- **[Week 10: Spatial audio](./week10/)**
+- **[Final project (proposal April 14)](./final/)**
 
 ## Important resources
 

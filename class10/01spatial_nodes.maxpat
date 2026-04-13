@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 252.0, 119.0, 1418.0, 909.0 ],
+		"rect" : [ 252.0, 95.0, 1418.0, 909.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -145,8 +145,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 409.453902721405029, 87.631205081939697, 45.0, 22.0 ],
-					"text" : "$1 500"
+					"patching_rect" : [ 409.453902721405029, 87.631205081939697, 52.0, 22.0 ],
+					"text" : "$1 5000"
 				}
 
 			}
@@ -171,7 +171,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 302.127665877342224, 153.900712430477142, 50.0, 22.0 ]
+					"patching_rect" : [ 303.127665877342224, 160.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -182,8 +182,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 302.127665877342224, 94.326243102550507, 45.0, 22.0 ],
-					"text" : "$1 500"
+					"patching_rect" : [ 302.127665877342224, 94.326243102550507, 52.0, 22.0 ],
+					"text" : "$1 5000"
 				}
 
 			}
@@ -514,7 +514,7 @@
 
 							}
  ],
-						"originid" : "pat-1087"
+						"originid" : "pat-165"
 					}
 ,
 					"patching_rect" : [ 657.0, 94.326243102550507, 106.0, 22.0 ],
@@ -707,7 +707,7 @@
 
 			}
  ],
-		"originid" : "pat-1083",
+		"originid" : "pat-161",
 		"dependency_cache" : [ 			{
 				"name" : "370audiolabmixer.maxpat",
 				"bootpath" : "~/Sound-Studio-S2026/class10",

@@ -194,6 +194,13 @@
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
+					"destination" : [ "obj-6", 3 ],
+					"source" : [ "obj-26", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
 					"order" : 2,
 					"source" : [ "obj-8", 0 ]
@@ -217,7 +224,7 @@
 
 			}
  ],
-		"originid" : "pat-584",
+		"originid" : "pat-175",
 		"dependency_cache" : [ 			{
 				"name" : "cello-f2.aif",
 				"bootpath" : "C74:/media/msp",

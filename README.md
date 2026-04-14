@@ -39,6 +39,9 @@ permalink: /
 - **[Week 9: Building an ARP 2600 in Max!](./week9/)**
 - **[Week 10: Spatial audio](./week10/)**
 - **[Final project (proposal April 14)](./final/)**
+- **[Week 11: Recording in the studio](./week11/)**
+- **[Week 12: All about Daisy](./week12/)**
+
 
 ## Important resources
 
